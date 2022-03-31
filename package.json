@@ -1,5 +1,5 @@
 {
-  "name": "JulieMwol",
+  "name": "Julie",
   "version": "7.3.6",
   "description": "Julie Mwol is the Modified Version of WhatsAsena, Made By @farhan-dqz with Baileys.",
   "main": "./Julie-Mwol/bot.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hopepsycho/Julie-Mwol.git"
+    "url": "git+https://github.com/hopepsycho/Julie.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,13 +17,13 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "farhan-dqz",
-  "developer": "@TOXIC-DEVIL / @farhan-dqz",
+  "author": "hopepsycho",
+  "developer": "@hopepsycho",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/hopepsycho/Julie-Mwol/issues"
+    "url": "https://github.com/hopepsycho/Julie/issues"
   },
-  "homepage": "https://github.com/hopepsycho/Julie-Mwol#readme",
+  "homepage": "https://github.com/hopepsycho/Julie#readme",
   "dependencies": {
     "@lh2020/speedtest-net": "^2.1.1",
     "textmaker-thiccy": "1.2.1",
