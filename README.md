@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/hopepsycho">hopepsycho</a> to mak
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/hopepsycho/Julie) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@hopepsycho/Julie)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@hopepsycho/JulieMwol)
   
 ### The Hard Method
 ```js
